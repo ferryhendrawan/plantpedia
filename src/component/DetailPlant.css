@@ -23,7 +23,7 @@ a{text-decoration:none}
 
   #modelPlant {
     color: #393E46;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: bold;
     font-family: Verdana;
   }
@@ -39,17 +39,17 @@ a{text-decoration:none}
 
   #detailPlant {
     color: #393E46;
-    font-family: Verdana;
+    font-family: K2D;
     font-weight: 300;
     font-size: 16px;
-    margin-top: 10px;
+    margin-top: 16px;
     text-align: justify;
 
   }
   #BackButton {
     margin-left: 35px;
     background: none;
-    margin-top: 40px;
+    margin-top: 25px;
     border: none;
     color:  rgb(119, 144, 234);
     text-decoration: underline;

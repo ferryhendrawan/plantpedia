@@ -1,6 +1,6 @@
 {
-  "short_name": "Computer Hardware Performance",
-  "name": "Computer Hardware Performance",
+  "short_name": "Plantpedia",
+  "name": "Plantpedianpm run build",
   "icons": [
     {
       "src": "favicon.ico",

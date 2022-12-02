@@ -34,7 +34,7 @@ function App() {
         </NavLink>
         <NavLink to="/others" className="iconWrapper">
           <AiFillStar className="icon" />
-          Others
+          Trending 
         </NavLink>
         <NavLink to="/profile" className="iconWrapper">
           <MdGroup className="icon" />
